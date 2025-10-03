@@ -963,6 +963,14 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
     </tr>
     <tr>
         <td>
+            <a href="https://ocsf.io/" target="_blank">Open Cybersecurity Schema Framework (OCSF)</a>
+        </td>
+        <td>
+            The Open Cybersecurity Schema Framework is an open-source project, delivering an extensible framework for developing schemas, along with a vendor-agnostic core security schema. The goal is to provide an open standard, adopted in any environment, application, or solution, while complementing existing security standards and processes.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://www.opencti.io/en/" target="_blank">OpenCTI</a>
         </td>
         <td>
