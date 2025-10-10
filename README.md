@@ -1255,7 +1255,15 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
             <a href="https://cti-transmute.org/" target="_blank">CTI-Transmute</a>
         </td>
         <td>
-            CTI-Transmute is a tool for converting Cyber Threat Intelligence (CTI) data between MISP and STIX formats. It provides a set of API endpoints that allow automated conversion of data, making it easier to integrate different threat intelligence platforms and workflows. Source available on [GitHub](https://github.com/MISP/cti-transmute).
+            CTI-Transmute is a tool for converting Cyber Threat Intelligence (CTI) data between MISP and STIX formats. It provides a set of API endpoints that allow automated conversion of data, making it easier to integrate different threat intelligence platforms and workflows. Source available on <a href="https://github.com/MISP/cti-transmute" target="_blank">GitHub</a>.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/cuckoosandbox/cuckoo" target="_blank">Cuckoo Sandbox</a>
+        </td>
+        <td>
+            Cuckoo Sandbox is an automated dynamic malware analysis system. It's the most well-known open source malware analysis sandbox around and is frequently deployed by researchers, CERT/SOC teams, and threat intelligence teams all around the globe. For many organizations Cuckoo Sandbox provides a first insight into potential malware samples.
         </td>
     </tr>
     <tr>
@@ -1272,14 +1280,6 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
         </td>
         <td>
             CyBot is a threat intelligence chat bot. It can perform several types of lookups offered by custom modules.
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://github.com/cuckoosandbox/cuckoo" target="_blank">Cuckoo Sandbox</a>
-        </td>
-        <td>
-            Cuckoo Sandbox is an automated dynamic malware analysis system. It's the most well-known open source malware analysis sandbox around and is frequently deployed by researchers, CERT/SOC teams, and threat intelligence teams all around the globe. For many organizations Cuckoo Sandbox provides a first insight into potential malware samples.
         </td>
     </tr>
     <tr>
